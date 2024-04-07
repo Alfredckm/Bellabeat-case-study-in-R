@@ -1,1 +1,1 @@
-"# Bellabeat-case-study-in-R" 
+Bellabeat-case-study-in-R 
